@@ -1,0 +1,1 @@
+touch admin/theme.properties
