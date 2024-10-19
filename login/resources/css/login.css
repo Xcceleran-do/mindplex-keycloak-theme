@@ -44,6 +44,7 @@ body {
 .kc-logo {
   width: 167px;
   height: 48px;
+  margin: 15px 0px;
 }
 
 #kc-header {
@@ -147,7 +148,7 @@ body {
 #kc-registration a:hover {
   text-decoration: underline;
 }
-//styleName: Web/web-body-2;
+/* styleName: Web/web-body-2; */
 /* font-family: SF Pro Text;
 font-size: 14px;
 font-weight: 400;
@@ -417,6 +418,7 @@ label[for="rememberMe"] {
 .kc-terms-policy a:hover {
   text-decoration: underline;
 }
+
 
 @media (max-width: 768px) {
   .card-pf {
