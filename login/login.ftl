@@ -89,7 +89,7 @@
                 </div>
             </div>
         </#if>
-    <#--  <#elseif section = "socialProviders" >
+  <#elseif section = "socialProviders" >
         <#if realm.password && social?? && social.providers?has_content>
             <div id="kc-social-providers" class="${properties.kcFormSocialAccountSectionClass!}">
                 <div class="social-provider-divider">
@@ -113,7 +113,7 @@
                     </#list>
                 </ul>
             </div>
-        </#if>  -->
+        </#if>  
     </#if>
 
 <#--  <footer class="login-footer">
